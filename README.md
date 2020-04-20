@@ -1,4 +1,4 @@
-# Perfect-BCrypt-iOS
+# BCrypt-iOS
 
 ## Acknowledgement
 
